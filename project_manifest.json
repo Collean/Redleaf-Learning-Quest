@@ -1,0 +1,32 @@
+{
+  "project": "Redleaf Learning Quest",
+  "version": "1.0",
+  "files": [
+    "index.html",
+    "style.css",
+    "src/content.js",
+    "src/game.js",
+    "assets/characters/player_redleaf.svg",
+    "assets/characters/mentor_redleaf.svg",
+    "assets/characters/teacher_redleaf.svg",
+    "assets/characters/reader_redleaf.svg",
+    "assets/characters/gardener_redleaf.svg",
+    "assets/characters/inventor_redleaf.svg",
+    "assets/characters/owl_redleaf.svg",
+    "assets/characters/headmaster_redleaf.svg",
+    "assets/buildings/home_redleaf.svg",
+    "assets/buildings/academy_redleaf.svg",
+    "assets/buildings/library_redleaf.svg",
+    "assets/buildings/market_redleaf.svg",
+    "assets/buildings/greenhouse_redleaf.svg",
+    "assets/buildings/workshop_redleaf.svg",
+    "assets/buildings/observatory_redleaf.svg",
+    "assets/buildings/hall_redleaf.svg",
+    "README.md"
+  ],
+  "notes": [
+    "All key art assets were generated locally as reusable SVG files for this project.",
+    "The game is a classic handheld RPG inspired learning adventure, not a Pokemon remake or licensed derivative.",
+    "Content targets Year 2 maths and reading-understanding practice with a long-form story."
+  ]
+}
